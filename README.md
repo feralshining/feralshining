@@ -15,9 +15,11 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@아직안만듦)  
 
 ## 📊 GitHub Stats  
-<div style="display: flex; justify-content: space-between; gap: 10px; width: 100%; max-width: 800px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=feralshining&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feralshining&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=feralshining&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=feralshining&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph" /></td>
+  </tr>
+</table>
 
 </div>
