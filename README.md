@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 👋 인사말 -->
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text="while(💀)%20{%20code();%20}"%20💻☠️&textBg=true&fontAlignY=44&reversal=false&fontAlign=48&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text="(☕%20,%20💻)%20=>%20🚀"&animation=blinking)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fferalshining%2Fhit-counter&count_bg=%23FFC500&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## 🛠 Tech Stack  
@@ -14,8 +14,11 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@아직안만듦)  
 
 ## 📊 GitHub Stats  
-  <img src="https://github-readme-stats.vercel.app/api?username=feralshining&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feralshining&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+ <img src="https://github-readme-stats.vercel.app/api?username=feralshining&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feralshining&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 </div>
 
 ###
