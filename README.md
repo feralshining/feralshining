@@ -34,8 +34,8 @@
     <!-- Android -->
     <p><strong>Android</strong></p>
     <div>
-         <img src="https://img.shields.io/badge/Kotlin-0095D5?&logo=kotlin&logoColor=black">
-         <img src="https://img.shields.io/badge/Java-007396?&logo=java&logoColor=black">
+         <img src="https://img.shields.io/badge/Kotlin-0095D5?&logo=kotlin&logoColor=white">
+         <img src="https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white">
     </div>
 
 ## 📚 Blog  
@@ -46,10 +46,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=feralshining&show_icons=true" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=feralshining&show_icons=true" alt="GitHub stat" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feralshining&layout=compact" alt="Top Langs" height="200" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feralshining&layout=compact" alt="Top Lang" height="200" />
     </td>
   </tr>
 </table>
