@@ -34,8 +34,8 @@
     <!-- Android -->
     <p><strong>Android</strong></p>
     <div>
-         <img src="https://img.shields.io/badge/Kotlin-0095D5?&logo=kotlin&logoColor=white">
-         <img src="https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white">
+         <img src="https://img.shields.io/badge/Kotlin-0095D5?&logo=kotlin&logoColor=black">
+         <img src="https://img.shields.io/badge/Java-007396?&logo=java&logoColor=black">
     </div>
 
 ## 📚 Blog  
