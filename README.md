@@ -3,8 +3,6 @@
 <!-- 👋 인사말 -->
 ![header](https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text="(💻%20,%20☕)%20=>%20🚀"&animation=blinking)
 
-
-
 ## 🛠 Tech Stack  
 <div style="display:flex; flex-direction:column;">
     <!-- Frontend-->
@@ -49,7 +47,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=feralshining&show_icons=true" alt="GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feralshining&layout=compact" alt="Top Langs" height="200" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feralshining&layout=compact" alt="Top Langs" height="201" />
     </td>
   </tr>
 </table>
