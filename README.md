@@ -38,7 +38,6 @@
 
 ## 📚 Blog  
 [![Velog](https://img.shields.io/badge/Velog-20C997?&logo=velog&logoColor=white)](https://velog.io/@feralshining)  
-[![Tistory](https://img.shields.io/badge/Tistory-eb6d07?&logo=tistory&logoColor=white)](https://tm-s2h.tistory.com)  
 
 ## 📊 GitHub Stats  
 <table>
