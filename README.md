@@ -46,7 +46,9 @@
 </table>
 
 ## 📚 Blog  
-[![Velog](https://img.shields.io/badge/Velog-20C997?&logo=velog&logoColor=white)](https://velog.io/@feralshining)  
+<a href="https://velog.io/@feralshining" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?&logo=velog&logoColor=white" alt="Velog"/>
+</a>
 
 ## 📊 GitHub Stats  
 <table>
