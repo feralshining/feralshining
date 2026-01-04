@@ -19,11 +19,11 @@
 -->
    
 ### # Projects
-- **Soomtong : 북구장애인종합복지관 키오스크 서비스 구축** 
-    > `Sole Developer | C#`  ㅤ 2025. 05. - 2025. 05. 
-
 - **StockProject : [KB국민은행] 제 7회 FUTURE FINANCE A.I. CHALLENGE 참가작**
     > `Frontend` `Backend`  ㅤ 2025. 07. - 2025. 07.
+    > 
+- **Soomtong : 북구장애인종합복지관 키오스크 서비스 구축** 
+    > `Sole Developer | C#`  ㅤ 2025. 05. - 2025. 05. 
 
 
 ###  # Blog & Contact
