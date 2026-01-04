@@ -23,7 +23,7 @@
     > `Frontend` `Backend`  ㅤ 2025. 07. - 2025. 07.
     > 
 - **Soomtong : 북구장애인종합복지관 키오스크 서비스 구축** 
-    > `Sole Developer | C#`  ㅤ 2025. 05. - 2025. 05. 
+    > `Sole Developer`  ㅤ 2025. 05. - 2025. 05. 
 
 
 ###  # Blog & Contact
