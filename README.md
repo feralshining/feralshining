@@ -19,11 +19,12 @@
 -->
    
 ### # Projects
+- **BGRCAPP : 북구장애인종합복지관 무료급식지원 출석 관리 앱 구축**
+    > `Backend`      2026.01. - 2026.02.
 - **StockProject : [KB국민은행] 제 7회 FUTURE FINANCE A.I. CHALLENGE 참가작**
-    > `Frontend` `Backend`  ㅤ 2025. 07. - 2025. 07.
-    > 
+    > `Frontend` `Backend`      2025. 07. - 2025. 07.
 - **Soomtong : 북구장애인종합복지관 키오스크 서비스 구축** 
-    > `Sole Developer`  ㅤ 2025. 05. - 2025. 05. 
+    > `Sole Developer`      2025. 05. - 2025. 05. 
 
 
 ###  # Blog & Contact
