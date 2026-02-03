@@ -11,7 +11,7 @@
 &nbsp;<img src="https://img.shields.io/badge/jass-8A2BE2?style=flat-square&logo=battledotnet&logoColor=white">
 
 ### # Projects
-- **BGRCAPP : 북구장애인종합복지관 무료급식지원 출석 관리 앱 구축**
+- **BGRCAPP : 북구장애인종합복지관 무료급식사업 출석 관리 앱 구축**
     > `Backend`      2026.01. - 2026.02.
 - **StockProject : [KB국민은행] 제 7회 FUTURE FINANCE A.I. CHALLENGE 참가작**
     > `Frontend` `Backend`      2025. 07. - 2025. 07.
