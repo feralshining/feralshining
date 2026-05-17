@@ -11,6 +11,8 @@
 &nbsp;<img src="https://img.shields.io/badge/jass-8A2BE2?style=flat-square&logo=battledotnet&logoColor=white">
 
 ### # Projects
+- **HowManyCals(오칼몇) : 음식 사진 한 장으로 '칼로리'와 '영양 성분'을 알려주는 AI 식단 관리 서비스**
+    > `Backend`      2026.04. - 2026.06.
 - **BGRCAPP : 북구장애인종합복지관 무료급식사업 출석 관리 앱 구축**
     > `Backend`      2026.01. - 2026.02.
 - **StockProject : [KB국민은행] 제 7회 FUTURE FINANCE A.I. CHALLENGE 참가작**
