@@ -18,7 +18,7 @@
 - **StockProject : [KB국민은행] 제 7회 FUTURE FINANCE A.I. CHALLENGE 참가작**
     > `Frontend` `Backend`      2025. 07. - 2025. 07.
 - **Soomtong : 북구장애인종합복지관 키오스크 서비스 구축**
-    > `FullStack`      2025. 05. - 2025. 05.
+    > `Full Stack`      2025. 05. - 2025. 05.
 
 ### # Blog & Contact
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:s3cur1tyh4ck@naver.com) 
